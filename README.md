@@ -146,3 +146,38 @@ Após o login, é possível alterar as credenciais no menu **Admin → Credencia
  ┣ 📜 styles.css
  ┣ 📜 app.js
  ┗ 📜 README.md
+
+🎓 Público-Alvo
+
+Estudantes de redes
+
+Iniciantes em TI
+
+Pessoas leigas curiosas sobre roteadores
+
+Recrutadores avaliando projetos Front-End
+
+Portfólio educacional
+
+🚀 Possíveis Melhorias Futuras
+
+Integração com back-end
+
+API REST
+
+Banco de dados real
+
+Simulação de tráfego
+
+Monitoramento em tempo real
+
+Modo escuro/claro
+
+Internacionalização (i18n)
+
+👩‍💻 Autora
+
+Andressa Santos
+🔗 GitHub: https://github.com/andressasanntos
+
+Projeto desenvolvido para fins educacionais e de portfólio.
